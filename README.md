@@ -9,7 +9,7 @@ model training, evaluation, and crop prediction.
 
 #### Base URL
 
-	http://example.com/
+	https://mean-dorrie-agroconnect1-3d4965f6.koyeb.app/
 
 ---
 ### **Predict Crop**
